@@ -21,7 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasmatthaei&show_icons=true&locale=en&layout=compact" alt="jonasmatthaei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasmatthaei&show_icons=true&locale=en" alt="jonasmatthaei" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasmatthaei&" alt="jonasmatthaei" /></p>
 
